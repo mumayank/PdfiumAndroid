@@ -100,7 +100,7 @@ public class PdfDocument {
         }
     }
 
-    /*package*/ PdfDocument() {
+    PdfDocument() {
     }
 
     /*package*/ long mNativeDocPtr;
